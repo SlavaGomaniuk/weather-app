@@ -1,0 +1,41 @@
+h1,
+.blue {
+  color: #0168d9;
+  font-size: 3vw;
+}
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 40px;
+}
+body {
+  background-image: url(src/img.png);
+  margin: 50px 100px;
+}
+.weather,
+.city {
+  display: block;
+  max-width: 90%;
+}
+.card {
+  padding: 100px;
+  max-width: 100%;
+}
+#date {
+  display: flex;
+  align-self: flex-end;
+  position: relative;
+}
+.cel,
+.faren {
+  color: #212529;
+}
+.unit {
+  display: flex;
+  align-self: flex-end;
+  position: relative;
+  top: -50px;
+  font-size: 20px;
+}
