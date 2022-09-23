@@ -43,3 +43,8 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+p {
+  font-size: 15px;
+  position: relative;
+  top: 100px;
+}
