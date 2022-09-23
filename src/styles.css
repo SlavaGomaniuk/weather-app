@@ -11,7 +11,7 @@ h3 {
   font-size: 40px;
 }
 body {
-  background-image: url(src/img.png);
+  background-image: url(img.png);
   margin: 50px 100px;
 }
 .weather,
